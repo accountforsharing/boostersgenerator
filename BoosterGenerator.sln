@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoosterGenerator", "BoosterGenerator\BoosterGenerator.csproj", "{FC05FA30-5AEB-42C3-AFBE-71369DC8250E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoosterGenerator.Test", "BoosterGenerator.Test\BoosterGenerator.Test.csproj", "{0C743F97-169A-4110-A7A8-2A2D24678899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Generator.csproj", "{D3E4100F-0684-40D1-98AB-2451BD0E90C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC05FA30-5AEB-42C3-AFBE-71369DC8250E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC05FA30-5AEB-42C3-AFBE-71369DC8250E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC05FA30-5AEB-42C3-AFBE-71369DC8250E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC05FA30-5AEB-42C3-AFBE-71369DC8250E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C743F97-169A-4110-A7A8-2A2D24678899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C743F97-169A-4110-A7A8-2A2D24678899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C743F97-169A-4110-A7A8-2A2D24678899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C743F97-169A-4110-A7A8-2A2D24678899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E4100F-0684-40D1-98AB-2451BD0E90C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E4100F-0684-40D1-98AB-2451BD0E90C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E4100F-0684-40D1-98AB-2451BD0E90C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E4100F-0684-40D1-98AB-2451BD0E90C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
